@@ -1,0 +1,18 @@
+Github Basics
+
+Repositories
+	- Private (lock sign in front of the repository name) – only accessible to authorized users
+	- Public (everyone with link/info can access)
+
+Branches
+-	Master
+-	Develop
+
+Pull Request: Request to pull you code (merge) your code into the repository
+
+
+Fork the main repo (forking means copying the code repo to your username)
+Do modifications/changes in your copy of code
+Commit your changes
+Push your code to main repo (prat13/testrepo)
+Create a Pull request
